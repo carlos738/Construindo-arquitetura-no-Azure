@@ -89,7 +89,7 @@ Depois de selecionar a tecnologia principal e consultar as arquiteturas de refer
 
     guias de serviço doWell-Architected Framework: O Well-Architected Framework fornece artigos sobre muitos serviços do Azure. Os artigos aplicam os cinco pilares da arquitetura a cada serviço.
 
-    Guias de confiabilidade do Azure: O hub de confiabilidade do Azure tem artigos detalhados que abordam especificamente as características de confiabilidade de muitos serviços do Azure. Esses artigos documentam alguns dos tópicos de confiabilidade mais críticos, como suporte à zona de disponibilidade e comportamento esperado durante diferentes tipos de interrupções
+    Guias de confiabilidade do Azure: O hub de confiabilidade do Azure tem artigos detalhados que abordam especificamente as características de confiabilidade de muitos serviços do Azure. Esses artigos documentam alguns dos tópicos de confiabilidade mais críticos, como suporte à zona de disponibilidade e comportamento esperado durante diferentes tipos de interrupções.
     
     
     
